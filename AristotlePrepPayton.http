@@ -1,0 +1,6 @@
+@AristotlePrepPayton_HostAddress = http://localhost:5224
+
+GET {{AristotlePrepPayton_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
